@@ -1,8 +1,8 @@
 /**
- * @name Party_Freaks_Red
+ * @name Party_Freaks
  * @author kerochan/thiccboye
  * @version 1.0
- * @description the red offical discord theme for party freaks vrchat club and discord server
+ * @description the offical red discord theme for party freaks vrchat club and discord server
  * @source https://github.com/thiccboye808/partyfreaks-theme
  * @website https://discord.gg/AXrYhRd
  * @authorLink https://discordhub.com/profile/365092668046442496
@@ -36,22 +36,22 @@
 /* Use Chat Bubbles By Shiz */
 @import url( https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css );
 :root {
-  --Main-Colour: rgb( 255, 150, 150 );
-  --Background-Colour: rgb(0, 0, 0);
+  --Main-Colour: rgba( 68, 192, 206, 1 );
+  --Background-Colour: rgba( 0, 0, 0, 1 );
   --Secondary-Background-Colour: rgba( 0, 0, 0, .3 );
-  --Secondary-Main-Colour: rgba( 255,  150, 150 .5 );
+  --Secondary-Main-Colour: rgba( 68, 192, 206, .5 );
   --Text-Shadow-Colour: rgba( 170, 0, 196, . );
-  --Scroller-Colour: rgba( 189, 0, 0, 1 );
-  --Notification-Colour: rgba( 189, 0, 0, 1 );
+  --Scroller-Colour: rgba( 170, 0, 196, 1 );
+  --Notification-Colour: rgba( 170, 0, 196, 1 );
   --Chat-Input-Background: rgba( 0, 0, 0, 0 );
   --Chat-Input-Colour: var( --Main-Colour );
   --Unread-Message-1: var( --Notification-Colour );
   --Unread-Message-2: var( --Main-Colour );
-  --Chat-Background: url( https://i.ibb.co/PTSJnBb/pfthemebgred.png );
-  --Settings-Background: url( https://i.ibb.co/PTSJnBb/pfthemebgred.png );
-  --Callout-Background: url( https://i.ibb.co/PTSJnBb/pfthemebgred.png );
+  --Chat-Background: url( https://i.ibb.co/N3VRtDL/pfthemebg.png );
+  --Settings-Background: url( https://i.ibb.co/N3VRtDL/pfthemebg.png );
+  --Callout-Background: url( https://i.ibb.co/N3VRtDL/pfthemebg.png );
   --Title-Background: var( --Background-Colour );
-  --Theme-Variant: "Party Freaks Offical (Red)";
+  --Theme-Variant: "Party Freaks Offical";
   --Chat-Font-Used: "Whitney";
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
